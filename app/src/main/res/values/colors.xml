@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- Primary color of the app (shown in the app bar) -->
+    <color name="colorPrimary">#2B3D4D</color>
+
+    <!-- Primary dark color of the app (shown in the status bar) -->
+    <color name="colorPrimaryDark">#23303D</color>
+
+    <!-- Accent color of the app -->
+    <color name="colorAccent">#10CAC9</color>
+
+    <color name="magnitude1">#4A7B47</color>
+    <color name="magnitude2">#04B4B3</color>
+    <color name="magnitude3">#10CAC9</color>
+    <color name="magnitude4">#F5A623</color>
+    <color name="magnitude5">#FF7D50</color>
+    <color name="magnitude6">#FC6644</color>
+    <color name="magnitude7">#E75F40</color>
+    <color name="magnitude8">#E13A20</color>
+    <color name="magnitude9">#D93218</color>
+    <color name="magnitude10plus">#C03823</color>
+
+    <color name="textColorEarthQuakeDetails">#B4B4C0</color>
+    <color name="textColorEarthQuakeLocation">#2B3D4D</color>
+</resources>
